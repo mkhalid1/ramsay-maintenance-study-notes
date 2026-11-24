@@ -38,7 +38,7 @@ Well-known ones include the Ramsay Mechanical Aptitude Test (MAT), the Bennett M
 
 ## How do I prepare for the Ramsay test?
 
-Find out which form you will sit, take the [15-minute diagnostic](diagnostic.md), study your weakest areas with the section guides, then do a timed run. The [study plans](study-plans.md) lay this out for a week or for two days. Ramsay itself says it does not sell preparation material and suggests textbooks from a library, community college or bookstore for the subject areas.
+Find out which form you will sit, take the [7-minute diagnostic](diagnostic.md), study your weakest areas with the section guides, then do a timed run. The [study plans](study-plans.md) lay this out for a week or for two days. Ramsay itself says it does not sell preparation material and suggests textbooks from a library, community college or bookstore for the subject areas.
 
 ## Where can I find a free Ramsay practice test with questions and answers?
 

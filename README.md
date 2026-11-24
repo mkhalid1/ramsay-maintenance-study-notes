@@ -1,13 +1,13 @@
 # Ramsay Maintenance Test Study Notes
 
-A free, complete study guide for Ramsay Corporation's maintenance knowledge tests: **MecTest** and **MultiCrafTest**, plus their trainee-level versions, Mechanical Maintenance Trainee and MultiCraft Trainee. It covers how the tests work, a clear method for each of the nine content areas, 94 original practice items with full explanations and 24 diagrams, what Ramsay says about scoring, and study plans for a week or a weekend. Written for maintenance mechanics, millwrights and multicraft technicians. Facts about the tests come only from Ramsay Corporation's own pages, each one [cited](docs/sources.md).
+A free, complete study guide for Ramsay Corporation's maintenance knowledge tests: **MecTest** and **MultiCrafTest**, plus their trainee-level versions, Mechanical Maintenance Trainee and MultiCraft Trainee. It covers how the tests work, a clear method for each of the nine content areas, 45 original practice items with full explanations and 22 diagrams, what Ramsay says about scoring, and study plans for a week or a weekend. Written for maintenance mechanics, millwrights and multicraft technicians. Facts about the tests come only from Ramsay Corporation's own pages, each one [cited](docs/sources.md).
 
-Want to see where you stand first? Take the [free Ramsay Maintenance practice test on PrepClubs](https://prepclubs.com/free-practice-tests/ramsay-maintenance?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=ramsay-maintenance), or the shorter [15-minute diagnostic](docs/diagnostic.md) in this repo.
+Want to see where you stand first? Take the [free Ramsay Maintenance practice test on PrepClubs](https://prepclubs.com/free-practice-tests/ramsay-maintenance?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=ramsay-maintenance), or the shorter [7-minute diagnostic](docs/diagnostic.md) in this repo.
 
 ## Start here
 
 1. **Find out which form you will sit.** MecTest is mechanical only. MultiCrafTest adds electrical. The [test overview](docs/test-overview.md#which-form-you-might-get) explains the four forms.
-2. **Find your weak areas.** Take the [15-minute diagnostic](docs/diagnostic.md). It has three items from each content area and tells you where to start.
+2. **Find your weak areas.** Take the [7-minute diagnostic](docs/diagnostic.md). It has one or two items from each content area and tells you where to start.
 3. **Fix the weakest area first.** Open its guide below, learn the method, then do its practice items.
 4. **Follow a plan.** Use the [7-day plan](docs/study-plans.md#7-day-plan), or the [2-day plan](docs/study-plans.md#2-day-plan) if your test date is close.
 
@@ -32,17 +32,17 @@ Sources: Ramsay's [MecTest](https://www.ramsaycorp.com/product/?id=1186) and [Mu
 
 | Content area | On MecTest | On MultiCrafTest | Diagrams | Guide |
 |---|---|---|---|---|
-| Hydraulics and pneumatics | Yes | Yes | Circuit, symbols, cylinder, FRL | [Hydraulics](docs/sections/hydraulics-pneumatics.md) |
+| Hydraulics and pneumatics | Yes | Yes | Circuit, symbols, cylinder | [Hydraulics](docs/sections/hydraulics-pneumatics.md) |
 | Welding and rigging | Yes | Yes | Weld symbol, sling, block and tackle | [Welding and rigging](docs/sections/welding-rigging.md) |
 | Power transmission and lubrication | Yes | Yes | Gears, belt drive, misalignment | [Power transmission](docs/sections/power-transmission-lubrication.md) |
-| Pumps, piping and combustion | Pumps and piping | Yes | Pump cutaway, fittings | [Pumps and piping](docs/sections/pumps-piping.md) |
+| Pumps, piping and combustion | Pumps and piping | Yes | Fittings | [Pumps and piping](docs/sections/pumps-piping.md) |
 | Print reading | Yes | As schematics and prints | Line types, dimensions, views | [Print reading](docs/sections/print-reading.md) |
 | Mechanical maintenance and shop tools | Yes | Yes | Micrometer | [Maintenance and tools](docs/sections/maintenance-shop-tools.md) |
 | Motors, control circuits and schematics | No | Yes | Start/stop ladder | [Motors and controls](docs/sections/motors-controls.md) |
 | Electronics, PLCs and test instruments | No | Yes | PLC rung, logic gates | [Electronics and PLCs](docs/sections/electronics-plc-instruments.md) |
 | AC/DC theory and power distribution | No | Yes | Series, parallel, fault finding | [AC/DC theory](docs/sections/ac-dc-power-distribution.md) |
 
-Every section guide has the same parts: what it measures, how the questions look, a step-by-step method, the traps that cost points, timing advice, 10 or 11 original practice items with explanations, and a score table.
+Every section guide has the same parts: what it measures, how the questions look, a step-by-step method, the traps that cost points, timing advice, 5 original practice items with explanations, and a score table.
 
 ## Contents
 
@@ -57,7 +57,7 @@ Every section guide has the same parts: what it measures, how the questions look
   - [How the test is given](docs/test-overview.md#how-the-test-is-given)
   - [What the questions look like](docs/test-overview.md#what-the-questions-look-like)
   - [Practise the real format](docs/test-overview.md#practise-the-real-format)
-- [15-minute diagnostic](docs/diagnostic.md)
+- [7-minute diagnostic](docs/diagnostic.md)
   - [Part A: Hydraulics and pneumatics](docs/diagnostic.md#part-a-hydraulics-and-pneumatics)
   - [Part B: Welding and rigging](docs/diagnostic.md#part-b-welding-and-rigging)
   - [Part C: Power transmission and lubrication](docs/diagnostic.md#part-c-power-transmission-and-lubrication)

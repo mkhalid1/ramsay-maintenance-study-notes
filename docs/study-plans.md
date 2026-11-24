@@ -2,7 +2,7 @@
 
 # Study plans
 
-Two plans: one for a week, one for when the test date is already set. Both assume you start with the [15-minute diagnostic](diagnostic.md) so you know your weak areas. Expect about an hour a day on the 7-day plan.
+Two plans: one for a week, one for when the test date is already set. Both assume you start with the [7-minute diagnostic](diagnostic.md) so you know your weak areas. Expect about an hour a day on the 7-day plan.
 
 MecTest and Mechanical Maintenance Trainee candidates can skip the electrical days and spend the time on their weakest mechanical areas instead.
 
@@ -36,7 +36,7 @@ For when the test is close.
 
 | Block | Time | What to do |
 |---|---|---|
-| 1 | 15 min | Take the [diagnostic](diagnostic.md). |
+| 1 | 7 min | Take the [diagnostic](diagnostic.md). |
 | 2 | 30 min | Read "A method that works" and "Traps that cost points" on every section page for your form. Skip the rest for now. |
 | 3 | 45 min | Do the practice items for your two weakest areas. Read every explanation. |
 | 4 | 45 to 60 min | Take a timed practice test, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/ramsay-maintenance?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=ramsay-maintenance). |

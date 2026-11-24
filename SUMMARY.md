@@ -5,7 +5,7 @@
 ## Start here
 
 * [The Ramsay maintenance tests explained](docs/test-overview.md)
-* [15-minute diagnostic](docs/diagnostic.md)
+* [7-minute diagnostic](docs/diagnostic.md)
 
 ## Mechanical content areas
 
