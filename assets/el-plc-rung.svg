@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 250" width="700" height="250" role="img" aria-label="PLC ladder rung with input I:1 examine if closed in series with I:2 examine if open driving output O:1">
+<title>PLC ladder rung with input I:1 examine if closed in series with I:2 examine if open driving output O:1</title>
+<rect x="0" y="0" width="700" height="250" fill="#ffffff"/>
+<g font-family="Arial, Helvetica, sans-serif" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<line x1="60" y1="40" x2="60" y2="200" stroke-width="3"/><line x1="640" y1="40" x2="640" y2="200" stroke-width="3"/>
+<line x1="60" y1="120" x2="150" y2="120" /><line x1="150" y1="100" x2="150" y2="140" /><line x1="180" y1="100" x2="180" y2="140" />
+<text x="165" y="90" font-size="14" text-anchor="middle" fill="#1f2937" stroke="none" font-weight="bold">I:1</text><text x="165" y="165" font-size="12" text-anchor="middle" fill="#1f2937" stroke="none">NO (XIC)</text>
+<line x1="180" y1="120" x2="300" y2="120" /><line x1="300" y1="100" x2="300" y2="140" /><line x1="330" y1="100" x2="330" y2="140" /><line x1="296" y1="138" x2="334" y2="102" />
+<text x="315" y="90" font-size="14" text-anchor="middle" fill="#1f2937" stroke="none" font-weight="bold">I:2</text><text x="315" y="165" font-size="12" text-anchor="middle" fill="#1f2937" stroke="none">NC (XIO)</text>
+<line x1="330" y1="120" x2="500" y2="120" />
+<path d="M 515 98 A 30 30 0 0 0 515 142"/><path d="M 545 98 A 30 30 0 0 1 545 142"/>
+<line x1="500" y1="120" x2="508" y2="120" /><line x1="552" y1="120" x2="640" y2="120" />
+<text x="530" y="90" font-size="14" text-anchor="middle" fill="#1f2937" stroke="none" font-weight="bold">O:1</text>
+<text x="350" y="230" font-size="13" text-anchor="middle" fill="#1f2937" stroke="none">One PLC rung. Contacts show the instruction, not the field switch type.</text>
+</g>
+</svg>

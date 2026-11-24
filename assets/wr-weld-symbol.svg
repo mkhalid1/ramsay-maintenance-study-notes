@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 260" width="660" height="260" role="img" aria-label="AWS welding symbol with a fillet triangle below the reference line and the size 1/4">
+<title>AWS welding symbol with a fillet triangle below the reference line and the size 1/4</title>
+<rect x="0" y="0" width="660" height="260" fill="#ffffff"/>
+<g font-family="Arial, Helvetica, sans-serif" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<line x1="200" y1="120" x2="460" y2="120" />
+<line x1="200" y1="120" x2="110" y2="200" /><polygon points="110,200 125.1,195.8 115.7,185.4" fill="#1f2937" stroke="#1f2937"/>
+<polygon points="300,120 300,150 330,120" fill="none"/>
+<text x="282" y="145" font-size="15" text-anchor="end" fill="#1f2937" stroke="none">1/4</text>
+<path d="M 460 120 L 485 100 M 460 120 L 485 140"/>
+<text x="330" y="40" font-size="16" text-anchor="middle" fill="#1f2937" stroke="none" font-weight="bold">Welding symbol (AWS style)</text>
+<text x="330" y="240" font-size="13" text-anchor="middle" fill="#1f2937" stroke="none">The triangle sits below the reference line. The number is the weld size in inches.</text>
+</g>
+</svg>

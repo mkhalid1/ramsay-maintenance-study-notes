@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 380" width="600" height="380" role="img" aria-label="Two-leg sling lifting a 4000 lb load with each leg at 60 degrees from horizontal">
+<title>Two-leg sling lifting a 4000 lb load with each leg at 60 degrees from horizontal</title>
+<rect x="0" y="0" width="600" height="380" fill="#ffffff"/>
+<g font-family="Arial, Helvetica, sans-serif" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<line x1="300" y1="50" x2="184.5" y2="250" stroke-width="3"/>
+<line x1="300" y1="50" x2="415.5" y2="250" stroke-width="3"/>
+<circle cx="300" cy="46" r="8"/>
+<rect x="130" y="250" width="340" height="70" fill="#e5e7eb"/>
+<text x="300" y="292" font-size="18" text-anchor="middle" fill="#1f2937" stroke="none" font-weight="bold">Load 4,000 lb</text>
+<line x1="184.5" y1="250" x2="254" y2="250" stroke-dasharray="4 4" stroke-width="1"/>
+<path d="M 234.5 250 A 50 50 0 0 0 209.5 206.7" stroke="#1d4ed8"/>
+<text x="258" y="232" font-size="16" text-anchor="middle" fill="#1d4ed8" stroke="none" font-weight="bold">60°</text>
+<text x="300" y="360" font-size="14" text-anchor="middle" fill="#1f2937" stroke="none">Two equal legs. Each leg makes 60° with the horizontal. Ignore sling weight.</text>
+</g>
+</svg>

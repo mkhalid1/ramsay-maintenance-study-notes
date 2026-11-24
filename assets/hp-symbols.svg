@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 240" width="700" height="240" role="img" aria-label="Four fluid power symbols labelled A to D">
+<title>Four fluid power symbols labelled A to D</title>
+<rect x="0" y="0" width="700" height="240" fill="#ffffff"/>
+<g font-family="Arial, Helvetica, sans-serif" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<polygon points="90,70 125,110 90,150 55,110"/>
+<line x1="90" y1="72" x2="90" y2="148" stroke-dasharray="5 4"/>
+<line x1="20" y1="110" x2="55" y2="110" /><line x1="125" y1="110" x2="160" y2="110" />
+<line x1="190" y1="110" x2="238" y2="110" />
+<path d="M 266 84 L 242 110 L 266 136"/>
+<circle cx="264" cy="110" r="14"/>
+<line x1="278" y1="110" x2="330" y2="110" />
+<rect x="405" y="60" width="50" height="90" rx="25"/>
+<line x1="405" y1="105" x2="455" y2="105" />
+<line x1="430" y1="150" x2="430" y2="175" />
+<circle cx="600" cy="110" r="34"/><polygon points="600,77 591,91 609,91" fill="#1f2937"/>
+<line x1="600" y1="144" x2="600" y2="175" />
+<text x="90" y="215" font-size="22" text-anchor="middle" fill="#1f2937" stroke="none" font-weight="bold">A</text>
+<text x="260" y="215" font-size="22" text-anchor="middle" fill="#1f2937" stroke="none" font-weight="bold">B</text>
+<text x="430" y="215" font-size="22" text-anchor="middle" fill="#1f2937" stroke="none" font-weight="bold">C</text>
+<text x="600" y="215" font-size="22" text-anchor="middle" fill="#1f2937" stroke="none" font-weight="bold">D</text>
+</g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300" width="600" height="300" role="img" aria-label="Series circuit with a 24 volt source and resistors of 2 and 6 ohms">
+<title>Series circuit with a 24 volt source and resistors of 2 and 6 ohms</title>
+<rect x="0" y="0" width="600" height="300" fill="#ffffff"/>
+<g font-family="Arial, Helvetica, sans-serif" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<line x1="80" y1="60" x2="80" y2="134" /><line x1="64" y1="134" x2="96" y2="134" stroke-width="3"/><line x1="72" y1="146" x2="88" y2="146" stroke-width="3"/><line x1="80" y1="146" x2="80" y2="240" />
+<text x="50" y="145" font-size="15" text-anchor="end" fill="#1f2937" stroke="none">24 V</text>
+<text x="105" y="128" font-size="16" text-anchor="middle" fill="#1f2937" stroke="none">+</text>
+<line x1="80" y1="60" x2="200" y2="60" /><polyline points="200,60 206.7,50 220.0,70 233.3,50 246.7,70 260.0,50 273.3,70 280,60"/><line x1="280" y1="60" x2="380" y2="60" /><polyline points="380,60 386.7,50 400.0,70 413.3,50 426.7,70 440.0,50 453.3,70 460,60"/><line x1="460" y1="60" x2="520" y2="60" />
+<text x="240" y="40" font-size="15" text-anchor="middle" fill="#1f2937" stroke="none">R1 = 2 Ω</text><text x="420" y="40" font-size="15" text-anchor="middle" fill="#1f2937" stroke="none">R2 = 6 Ω</text>
+<line x1="520" y1="60" x2="520" y2="240" /><line x1="520" y1="240" x2="80" y2="240" />
+<text x="300" y="280" font-size="14" text-anchor="middle" fill="#1f2937" stroke="none">Series circuit. Ignore wire and battery resistance.</text>
+</g>
+</svg>

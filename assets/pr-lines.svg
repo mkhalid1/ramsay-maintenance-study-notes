@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 270" width="600" height="270" role="img" aria-label="Four drawing line types labelled A to D">
+<title>Four drawing line types labelled A to D</title>
+<rect x="0" y="0" width="600" height="270" fill="#ffffff"/>
+<g font-family="Arial, Helvetica, sans-serif" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<line x1="140" y1="60" x2="520" y2="60" stroke-width="4"/>
+<line x1="140" y1="110" x2="520" y2="110" stroke-dasharray="14 8" stroke-width="2.5"/>
+<line x1="140" y1="160" x2="520" y2="160" stroke-dasharray="40 8 8 8" stroke-width="1.5"/>
+<line x1="150" y1="210" x2="510" y2="210" stroke-width="1.2"/><polygon points="140,210 152.0,216.0 152.0,204.0" fill="#1f2937" stroke="#1f2937"/><polygon points="520,210 508.0,204.0 508.0,216.0" fill="#1f2937" stroke="#1f2937"/>
+<line x1="140" y1="190" x2="140" y2="222" stroke-width="1.2"/><line x1="520" y1="190" x2="520" y2="222" stroke-width="1.2"/>
+<text x="330" y="202" font-size="15" text-anchor="middle" fill="#1f2937" stroke="none">3.50</text>
+<text x="90" y="67" font-size="22" text-anchor="middle" fill="#1f2937" stroke="none" font-weight="bold">A</text>
+<text x="90" y="117" font-size="22" text-anchor="middle" fill="#1f2937" stroke="none" font-weight="bold">B</text>
+<text x="90" y="167" font-size="22" text-anchor="middle" fill="#1f2937" stroke="none" font-weight="bold">C</text>
+<text x="90" y="217" font-size="22" text-anchor="middle" fill="#1f2937" stroke="none" font-weight="bold">D</text>
+<text x="330" y="255" font-size="14" text-anchor="middle" fill="#1f2937" stroke="none">Four line types used on mechanical drawings</text>
+</g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 750 220" width="750" height="220" role="img" aria-label="Two kinds of shaft misalignment labelled A and B">
+<title>Two kinds of shaft misalignment labelled A and B</title>
+<rect x="0" y="0" width="750" height="220" fill="#ffffff"/>
+<g font-family="Arial, Helvetica, sans-serif" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<rect x="40" y="70" width="140" height="30" fill="#e5e7eb"/>
+<rect x="190" y="95" width="140" height="30" fill="#e5e7eb"/>
+<line x1="30" y1="85" x2="340" y2="85" stroke-dasharray="10 4 2 4" stroke-width="1"/>
+<line x1="30" y1="110" x2="340" y2="110" stroke-dasharray="10 4 2 4" stroke-width="1"/>
+<text x="185" y="170" font-size="22" text-anchor="middle" fill="#1f2937" stroke="none" font-weight="bold">A</text>
+<rect x="420" y="80" width="140" height="30" fill="#e5e7eb"/>
+<g transform="rotate(-12 570 95)"><rect x="570" y="80" width="140" height="30" fill="#e5e7eb"/></g>
+<line x1="410" y1="95" x2="570" y2="95" stroke-dasharray="10 4 2 4" stroke-width="1"/>
+<text x="565" y="170" font-size="22" text-anchor="middle" fill="#1f2937" stroke="none" font-weight="bold">B</text>
+<text x="375" y="30" font-size="14" text-anchor="middle" fill="#1f2937" stroke="none">Two shaft pairs seen from the side. Dash-dot lines are shaft centrelines.</text>
+<text x="185" y="200" font-size="13" text-anchor="middle" fill="#1f2937" stroke="none">centrelines parallel, not in line</text>
+<text x="565" y="200" font-size="13" text-anchor="middle" fill="#1f2937" stroke="none">centrelines meet at an angle</text>
+</g>
+</svg>

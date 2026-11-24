@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 290" width="680" height="290" role="img" aria-label="Lamp circuit with fuse and open switch and test points 1 to 4">
+<title>Lamp circuit with fuse and open switch and test points 1 to 4</title>
+<rect x="0" y="0" width="680" height="290" fill="#ffffff"/>
+<g font-family="Arial, Helvetica, sans-serif" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<line x1="60" y1="80" x2="560" y2="80" stroke-width="2.5"/><line x1="60" y1="220" x2="560" y2="220" stroke-width="2.5"/>
+<text x="40" y="86" font-size="14" text-anchor="end" fill="#1f2937" stroke="none" font-weight="bold">L1</text><text x="40" y="226" font-size="14" text-anchor="end" fill="#1f2937" stroke="none" font-weight="bold">N</text>
+<rect x="150" y="70" width="80" height="20" fill="#ffffff"/><text x="190" y="60" font-size="13" text-anchor="middle" fill="#1f2937" stroke="none">Fuse</text>
+<rect x="290" y="60" width="80" height="40" fill="#ffffff" stroke="#ffffff"/>
+<line x1="280" y1="80" x2="300" y2="80" /><circle cx="300" cy="80" r="4"/><circle cx="360" cy="80" r="4"/><line x1="300" y1="80" x2="355" y2="55" /><line x1="360" y1="80" x2="380" y2="80" />
+<text x="330" y="45" font-size="13" text-anchor="middle" fill="#1f2937" stroke="none">Switch (open)</text>
+<line x1="560" y1="80" x2="560" y2="120" /><circle cx="560" cy="150" r="30" fill="#ffffff"/><line x1="538" y1="128" x2="582" y2="172" /><line x1="582" y1="128" x2="538" y2="172" /><line x1="560" y1="180" x2="560" y2="220" />
+<text x="605" y="155" font-size="13" text-anchor="start" fill="#1f2937" stroke="none">Lamp</text>
+<circle cx="120" cy="80" r="6" fill="#1d4ed8" stroke="#1d4ed8"/>
+<text x="120" y="110" font-size="15" text-anchor="middle" fill="#1d4ed8" stroke="none" font-weight="bold">1</text>
+<circle cx="260" cy="80" r="6" fill="#1d4ed8" stroke="#1d4ed8"/>
+<text x="260" y="110" font-size="15" text-anchor="middle" fill="#1d4ed8" stroke="none" font-weight="bold">2</text>
+<circle cx="420" cy="80" r="6" fill="#1d4ed8" stroke="#1d4ed8"/>
+<text x="420" y="110" font-size="15" text-anchor="middle" fill="#1d4ed8" stroke="none" font-weight="bold">3</text>
+<circle cx="420" cy="220" r="6" fill="#1d4ed8" stroke="#1d4ed8"/>
+<text x="420" y="204" font-size="15" text-anchor="middle" fill="#1d4ed8" stroke="none" font-weight="bold">4</text>
+<text x="330" y="270" font-size="13" text-anchor="middle" fill="#1f2937" stroke="none">120 V supply. Fuse is good. Lamp is good. Points 1 to 4 are test points.</text>
+</g>
+</svg>

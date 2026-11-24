@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 240" width="620" height="240" role="img" aria-label="Air preparation unit with three unlabelled units numbered 1 to 3">
+<title>Air preparation unit with three unlabelled units numbered 1 to 3</title>
+<rect x="0" y="0" width="620" height="240" fill="#ffffff"/>
+<g font-family="Arial, Helvetica, sans-serif" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<line x1="30" y1="120" x2="80" y2="120" />
+<text x="55" y="105" font-size="14" text-anchor="middle" fill="#1f2937" stroke="none">Air in</text>
+<rect x="90" y="70" width="100" height="100" rx="8"/>
+<text x="140" y="60" font-size="20" text-anchor="middle" fill="#1f2937" stroke="none" font-weight="bold">1</text>
+<line x1="190" y1="120" x2="250" y2="120" />
+<rect x="250" y="70" width="100" height="100" rx="8"/>
+<text x="300" y="60" font-size="20" text-anchor="middle" fill="#1f2937" stroke="none" font-weight="bold">2</text>
+<line x1="350" y1="120" x2="410" y2="120" />
+<rect x="410" y="70" width="100" height="100" rx="8"/>
+<text x="460" y="60" font-size="20" text-anchor="middle" fill="#1f2937" stroke="none" font-weight="bold">3</text>
+<line x1="510" y1="120" x2="590" y2="120" /><polygon points="595,120 585.0,115.0 585.0,125.0" fill="#1f2937" stroke="#1f2937"/>
+<text x="560" y="105" font-size="14" text-anchor="middle" fill="#1f2937" stroke="none">To tool</text>
+<text x="310" y="215" font-size="14" text-anchor="middle" fill="#1f2937" stroke="none">An air preparation unit: three boxes in the order the air passes through them.</text>
+</g>
+</svg>

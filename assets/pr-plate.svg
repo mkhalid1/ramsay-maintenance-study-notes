@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 320" width="600" height="320" role="img" aria-label="Plate 8.00 inches long with two holes dimensioned 1.50 and 2.25 from the left">
+<title>Plate 8.00 inches long with two holes dimensioned 1.50 and 2.25 from the left</title>
+<rect x="0" y="0" width="600" height="320" fill="#ffffff"/>
+<g font-family="Arial, Helvetica, sans-serif" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<rect x="60" y="80" width="480" height="140"/>
+<circle cx="150" cy="150" r="14"/>
+<line x1="150" y1="120" x2="150" y2="180" stroke-dasharray="20 5 5 5" stroke-width="1"/>
+<circle cx="285" cy="150" r="14"/>
+<line x1="285" y1="120" x2="285" y2="180" stroke-dasharray="20 5 5 5" stroke-width="1"/>
+<line x1="60" y1="260" x2="540" y2="260" stroke-width="1.2"/><polygon points="60,260 70.0,265.0 70.0,255.0" fill="#1f2937" stroke="#1f2937"/><polygon points="540,260 530.0,255.0 530.0,265.0" fill="#1f2937" stroke="#1f2937"/>
+<line x1="60" y1="225" x2="60" y2="270" stroke-width="1"/><line x1="540" y1="225" x2="540" y2="270" stroke-width="1"/>
+<text x="300" y="252" font-size="15" text-anchor="middle" fill="#1f2937" stroke="none">8.00</text>
+<line x1="60" y1="50" x2="150" y2="50" stroke-width="1.2"/><polygon points="60,50 69.0,54.5 69.0,45.5" fill="#1f2937" stroke="#1f2937"/><polygon points="150,50 141.0,45.5 141.0,54.5" fill="#1f2937" stroke="#1f2937"/>
+<line x1="60" y1="40" x2="60" y2="78" stroke-width="1"/><line x1="150" y1="40" x2="150" y2="134" stroke-width="1"/>
+<text x="105" y="42" font-size="15" text-anchor="middle" fill="#1f2937" stroke="none">1.50</text>
+<line x1="150" y1="50" x2="285" y2="50" stroke-width="1.2"/><polygon points="150,50 159.0,54.5 159.0,45.5" fill="#1f2937" stroke="#1f2937"/><polygon points="285,50 276.0,45.5 276.0,54.5" fill="#1f2937" stroke="#1f2937"/>
+<line x1="285" y1="40" x2="285" y2="134" stroke-width="1"/>
+<text x="218" y="42" font-size="15" text-anchor="middle" fill="#1f2937" stroke="none">2.25</text>
+<text x="420" y="155" font-size="16" text-anchor="middle" fill="#1f2937" stroke="none" font-weight="bold">X = ?</text>
+<line x1="285" y1="190" x2="540" y2="190" stroke-width="1" stroke="#1d4ed8"/><polygon points="285,190 294.0,194.5 294.0,185.5" fill="#1d4ed8" stroke="#1d4ed8"/><polygon points="540,190 531.0,185.5 531.0,194.5" fill="#1d4ed8" stroke="#1d4ed8"/>
+<text x="300" y="300" font-size="13" text-anchor="middle" fill="#1f2937" stroke="none">All dimensions in inches. X is from the centre of the right-hand hole to the right edge.</text>
+</g>
+</svg>
