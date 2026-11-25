@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [7-minute diagnostic](../diagnostic.md) · Next: [Welding and rigging](welding-rigging.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [7-minute diagnostic](../diagnostic.md) · Next: [Welding and rigging](welding-rigging.md)
+<!-- /nav:top -->
 
 # Hydraulics and pneumatics
 
@@ -116,4 +118,6 @@ Try hydraulics items mixed in with the other categories in the [free Ramsay Main
 
 ---
 
-<!-- nav:bottom -->← Previous: [7-minute diagnostic](../diagnostic.md) | Next: [Welding and rigging](welding-rigging.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [7-minute diagnostic](../diagnostic.md) | Next: [Welding and rigging](welding-rigging.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

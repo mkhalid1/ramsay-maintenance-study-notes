@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [For maintenance candidates](maintenance-candidates.md) · Next: [FAQ](faq.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [For maintenance candidates](maintenance-candidates.md) · Next: [FAQ](faq.md)
+<!-- /nav:top -->
 
 # Test-day checklist
 
@@ -48,4 +50,6 @@ If you have a day or two, do one full timed run on the [free Ramsay Maintenance 
 
 ---
 
-<!-- nav:bottom -->← Previous: [For maintenance candidates](maintenance-candidates.md) | Next: [FAQ](faq.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [For maintenance candidates](maintenance-candidates.md) | Next: [FAQ](faq.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

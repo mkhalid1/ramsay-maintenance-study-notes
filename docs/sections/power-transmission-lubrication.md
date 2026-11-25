@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Welding and rigging](welding-rigging.md) · Next: [Pumps, piping and combustion](pumps-piping.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Welding and rigging](welding-rigging.md) · Next: [Pumps, piping and combustion](pumps-piping.md)
+<!-- /nav:top -->
 
 # Power transmission and lubrication
 
@@ -119,4 +121,6 @@ Practise gear and belt items at speed in the [free Ramsay Maintenance practice t
 
 ---
 
-<!-- nav:bottom -->← Previous: [Welding and rigging](welding-rigging.md) | Next: [Pumps, piping and combustion](pumps-piping.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Welding and rigging](welding-rigging.md) | Next: [Pumps, piping and combustion](pumps-piping.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

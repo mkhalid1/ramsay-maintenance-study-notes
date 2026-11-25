@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [AC/DC theory and power distribution](sections/ac-dc-power-distribution.md) · Next: [Timing and pacing](timing.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [AC/DC theory and power distribution](sections/ac-dc-power-distribution.md) · Next: [Timing and pacing](timing.md)
+<!-- /nav:top -->
 
 # How Ramsay scoring works
 
@@ -64,4 +66,6 @@ Ramsay's FAQ says employment testing standards require employers to give people 
 
 ---
 
-<!-- nav:bottom -->← Previous: [AC/DC theory and power distribution](sections/ac-dc-power-distribution.md) | Next: [Timing and pacing](timing.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [AC/DC theory and power distribution](sections/ac-dc-power-distribution.md) | Next: [Timing and pacing](timing.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

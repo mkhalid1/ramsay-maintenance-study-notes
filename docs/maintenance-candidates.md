@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [Study plans: 7 days and 2 days](study-plans.md) · Next: [Test-day checklist](test-day-checklist.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [Study plans: 7 days and 2 days](study-plans.md) · Next: [Test-day checklist](test-day-checklist.md)
+<!-- /nav:top -->
 
 # For maintenance mechanics, millwrights and multicraft technicians
 
@@ -54,4 +56,6 @@ Run the [diagnostic](diagnostic.md) first, then a full timed run on the [free Ra
 
 ---
 
-<!-- nav:bottom -->← Previous: [Study plans: 7 days and 2 days](study-plans.md) | Next: [Test-day checklist](test-day-checklist.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Study plans: 7 days and 2 days](study-plans.md) | Next: [Test-day checklist](test-day-checklist.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

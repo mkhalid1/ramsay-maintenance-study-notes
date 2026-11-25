@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [Test-day checklist](test-day-checklist.md) · Next: [Glossary](glossary.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [Test-day checklist](test-day-checklist.md) · Next: [Glossary](glossary.md)
+<!-- /nav:top -->
 
 # Frequently asked questions
 
@@ -74,4 +76,6 @@ Yes. Ramsay's FAQ says all its tests, paper or online, must be proctored.
 
 ---
 
-<!-- nav:bottom -->← Previous: [Test-day checklist](test-day-checklist.md) | Next: [Glossary](glossary.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Test-day checklist](test-day-checklist.md) | Next: [Glossary](glossary.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

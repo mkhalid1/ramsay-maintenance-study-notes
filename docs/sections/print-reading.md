@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Pumps, piping and combustion](pumps-piping.md) · Next: [Mechanical maintenance and shop tools](maintenance-shop-tools.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Pumps, piping and combustion](pumps-piping.md) · Next: [Mechanical maintenance and shop tools](maintenance-shop-tools.md)
+<!-- /nav:top -->
 
 # Print reading
 
@@ -119,4 +121,6 @@ Practise print items under time pressure in the [free Ramsay Maintenance practic
 
 ---
 
-<!-- nav:bottom -->← Previous: [Pumps, piping and combustion](pumps-piping.md) | Next: [Mechanical maintenance and shop tools](maintenance-shop-tools.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Pumps, piping and combustion](pumps-piping.md) | Next: [Mechanical maintenance and shop tools](maintenance-shop-tools.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

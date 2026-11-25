@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Hydraulics and pneumatics](hydraulics-pneumatics.md) · Next: [Power transmission and lubrication](power-transmission-lubrication.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Hydraulics and pneumatics](hydraulics-pneumatics.md) · Next: [Power transmission and lubrication](power-transmission-lubrication.md)
+<!-- /nav:top -->
 
 # Welding and rigging
 
@@ -124,4 +126,6 @@ Put the sling and symbol rules under time pressure with the [free Ramsay Mainten
 
 ---
 
-<!-- nav:bottom -->← Previous: [Hydraulics and pneumatics](hydraulics-pneumatics.md) | Next: [Power transmission and lubrication](power-transmission-lubrication.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Hydraulics and pneumatics](hydraulics-pneumatics.md) | Next: [Power transmission and lubrication](power-transmission-lubrication.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Next: [7-minute diagnostic](diagnostic.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Next: [7-minute diagnostic](diagnostic.md)
+<!-- /nav:top -->
 
 # The Ramsay maintenance tests explained
 
@@ -75,4 +77,6 @@ The section guides teach each area one at a time. To practise switching between 
 
 ---
 
-<!-- nav:bottom -->Next: [7-minute diagnostic](diagnostic.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+Next: [7-minute diagnostic](diagnostic.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

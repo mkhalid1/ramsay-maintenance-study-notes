@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Motors, control circuits and schematics](motors-controls.md) · Next: [AC/DC theory and power distribution](ac-dc-power-distribution.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Motors, control circuits and schematics](motors-controls.md) · Next: [AC/DC theory and power distribution](ac-dc-power-distribution.md)
+<!-- /nav:top -->
 
 # Electronics, PLCs and test instruments
 
@@ -116,4 +118,6 @@ Test PLC and instrument items at pace in the [free Ramsay Maintenance practice t
 
 ---
 
-<!-- nav:bottom -->← Previous: [Motors, control circuits and schematics](motors-controls.md) | Next: [AC/DC theory and power distribution](ac-dc-power-distribution.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Motors, control circuits and schematics](motors-controls.md) | Next: [AC/DC theory and power distribution](ac-dc-power-distribution.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

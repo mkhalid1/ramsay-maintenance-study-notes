@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Print reading](print-reading.md) · Next: [Motors, control circuits and schematics](motors-controls.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Print reading](print-reading.md) · Next: [Motors, control circuits and schematics](motors-controls.md)
+<!-- /nav:top -->
 
 # Mechanical maintenance and shop tools
 
@@ -114,4 +116,6 @@ Test your measuring and repair knowledge at pace in the [free Ramsay Maintenance
 
 ---
 
-<!-- nav:bottom -->← Previous: [Print reading](print-reading.md) | Next: [Motors, control circuits and schematics](motors-controls.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Print reading](print-reading.md) | Next: [Motors, control circuits and schematics](motors-controls.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

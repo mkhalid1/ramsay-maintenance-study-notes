@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Power transmission and lubrication](power-transmission-lubrication.md) · Next: [Print reading](print-reading.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Power transmission and lubrication](power-transmission-lubrication.md) · Next: [Print reading](print-reading.md)
+<!-- /nav:top -->
 
 # Pumps, piping and combustion
 
@@ -114,4 +116,6 @@ Mix pump and piping items with the other categories in the [free Ramsay Maintena
 
 ---
 
-<!-- nav:bottom -->← Previous: [Power transmission and lubrication](power-transmission-lubrication.md) | Next: [Print reading](print-reading.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Power transmission and lubrication](power-transmission-lubrication.md) | Next: [Print reading](print-reading.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Electronics, PLCs and test instruments](electronics-plc-instruments.md) · Next: [How scoring works](../scoring.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Electronics, PLCs and test instruments](electronics-plc-instruments.md) · Next: [How scoring works](../scoring.md)
+<!-- /nav:top -->
 
 # AC/DC theory, power distribution and electrical maintenance
 
@@ -115,4 +117,6 @@ Practise circuit sums against the clock in the [free Ramsay Maintenance practice
 
 ---
 
-<!-- nav:bottom -->← Previous: [Electronics, PLCs and test instruments](electronics-plc-instruments.md) | Next: [How scoring works](../scoring.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Electronics, PLCs and test instruments](electronics-plc-instruments.md) | Next: [How scoring works](../scoring.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

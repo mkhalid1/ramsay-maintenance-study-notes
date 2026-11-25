@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [Mechanical maintenance and shop tools](maintenance-shop-tools.md) · Next: [Electronics, PLCs and test instruments](electronics-plc-instruments.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [Mechanical maintenance and shop tools](maintenance-shop-tools.md) · Next: [Electronics, PLCs and test instruments](electronics-plc-instruments.md)
+<!-- /nav:top -->
 
 # Motors, control circuits and schematics
 
@@ -113,4 +115,6 @@ Try control circuit items in a full timed run with the [free Ramsay Maintenance 
 
 ---
 
-<!-- nav:bottom -->← Previous: [Mechanical maintenance and shop tools](maintenance-shop-tools.md) | Next: [Electronics, PLCs and test instruments](electronics-plc-instruments.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Mechanical maintenance and shop tools](maintenance-shop-tools.md) | Next: [Electronics, PLCs and test instruments](electronics-plc-instruments.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->
