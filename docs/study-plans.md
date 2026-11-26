@@ -17,7 +17,7 @@ MecTest and Mechanical Maintenance Trainee candidates can skip the electrical da
 | 3 | Drives and rigging | Work through [power transmission](sections/power-transmission-lubrication.md) and [welding and rigging](sections/welding-rigging.md). Learn the sling angle table. |
 | 4 | Prints and tools | Work through [print reading](sections/print-reading.md) and [maintenance and shop tools](sections/maintenance-shop-tools.md). Practise three micrometer readings. |
 | 5 | Electrical (MultiCraft) | Work through [motors and controls](sections/motors-controls.md), [electronics and PLCs](sections/electronics-plc-instruments.md) and [AC/DC theory](sections/ac-dc-power-distribution.md). MecTest candidates: redo your two weakest mechanical sections instead. |
-| 6 | First timed run | Take a full timed practice test, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/ramsay-maintenance?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=ramsay-maintenance). Score it by category. Read the [timing guide](timing.md). |
+| 6 | First timed run | Take a full timed practice test, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/ramsay-maintenance?utm_source=github&utm_medium=referral&utm_campaign=5q2ftk&utm_content=ramsay-maintenance). Score it by category. Read the [timing guide](timing.md). |
 | 7 | Fix and rest | Redo the items you missed this week without looking at the answers. Read the [test-day checklist](test-day-checklist.md). Stop by early evening. |
 
 ### How to review a missed item
@@ -41,7 +41,7 @@ For when the test is close.
 | 1 | 7 min | Take the [diagnostic](diagnostic.md). |
 | 2 | 30 min | Read "A method that works" and "Traps that cost points" on every section page for your form. Skip the rest for now. |
 | 3 | 45 min | Do the practice items for your two weakest areas. Read every explanation. |
-| 4 | 45 to 60 min | Take a timed practice test, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/ramsay-maintenance?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=ramsay-maintenance). |
+| 4 | 45 to 60 min | Take a timed practice test, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/ramsay-maintenance?utm_source=github&utm_medium=referral&utm_campaign=5q2ftk&utm_content=ramsay-maintenance). |
 | 5 | 20 min | Review every miss with the three questions above. |
 
 ### Day 2: sit the test

@@ -44,7 +44,7 @@ If you are behind at a checkpoint, skip the next long calculation and come back 
 
 ## Practise against the clock
 
-The section pages teach the methods. A timed run teaches the pace. Try the [free Ramsay Maintenance practice test on PrepClubs](https://prepclubs.com/free-practice-tests/ramsay-maintenance?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=ramsay-maintenance) and note which categories made you slow.
+The section pages teach the methods. A timed run teaches the pace. Try the [free Ramsay Maintenance practice test on PrepClubs](https://prepclubs.com/free-practice-tests/ramsay-maintenance?utm_source=github&utm_medium=referral&utm_campaign=5q2ftk&utm_content=ramsay-maintenance) and note which categories made you slow.
 
 ---
 

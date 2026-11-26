@@ -2,7 +2,7 @@
 
 A free, complete study guide for Ramsay Corporation's maintenance knowledge tests: **MecTest** and **MultiCrafTest**, plus their trainee-level versions, Mechanical Maintenance Trainee and MultiCraft Trainee. It covers how the tests work, a clear method for each of the nine content areas, 45 original practice items with full explanations and 22 diagrams, what Ramsay says about scoring, and study plans for a week or a weekend. Written for maintenance mechanics, millwrights and multicraft technicians. Facts about the tests come only from Ramsay Corporation's own pages, each one [cited](docs/sources.md).
 
-Want to see where you stand first? Take the [free Ramsay Maintenance practice test on PrepClubs](https://prepclubs.com/free-practice-tests/ramsay-maintenance?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=ramsay-maintenance), or the shorter [7-minute diagnostic](docs/diagnostic.md) in this repo.
+Want to see where you stand first? Take the [free Ramsay Maintenance practice test on PrepClubs](https://prepclubs.com/free-practice-tests/ramsay-maintenance?utm_source=github&utm_medium=referral&utm_campaign=5q2ftk&utm_content=ramsay-maintenance), or the shorter [7-minute diagnostic](docs/diagnostic.md) in this repo.
 
 ## Start here
 
@@ -218,7 +218,7 @@ Every section guide has the same parts: what it measures, how the questions look
 - **Test yourself honestly.** Answers are hidden under "Answers and explanations". Commit to an answer before you open them.
 - **Read every explanation,** including for items you got right. Most say why the nearest wrong option is wrong, which is where the learning is.
 - **Keep a miss log.** For each miss, write whether it was knowledge or method. The [study plans](docs/study-plans.md#how-to-review-a-missed-item) show how.
-- **Practise timed.** The notes teach the principles. A timed run, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/ramsay-maintenance?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=ramsay-maintenance), teaches the pace.
+- **Practise timed.** The notes teach the principles. A timed run, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/ramsay-maintenance?utm_source=github&utm_medium=referral&utm_campaign=5q2ftk&utm_content=ramsay-maintenance), teaches the pace.
 - **Clone or fork it** if you want your own annotated copy. The structure also works as a GitBook space: see [SUMMARY.md](SUMMARY.md).
 
 ## About the practice items and diagrams

@@ -46,7 +46,7 @@ Ramsay tests are always proctored, either on paper at a test site or online with
 
 ## Last practice before the real one
 
-If you have a day or two, do one full timed run on the [free Ramsay Maintenance practice test on PrepClubs](https://prepclubs.com/free-practice-tests/ramsay-maintenance?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=ramsay-maintenance) and review only the items you got wrong.
+If you have a day or two, do one full timed run on the [free Ramsay Maintenance practice test on PrepClubs](https://prepclubs.com/free-practice-tests/ramsay-maintenance?utm_source=github&utm_medium=referral&utm_campaign=5q2ftk&utm_content=ramsay-maintenance) and review only the items you got wrong.
 
 ---
 

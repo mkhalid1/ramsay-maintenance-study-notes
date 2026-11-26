@@ -73,7 +73,7 @@ Every form is multiple choice with four options. Ramsay publishes one sample ite
 
 ## Practise the real format
 
-The section guides teach each area one at a time. To practise switching between topics under time pressure, use the [free Ramsay Maintenance practice test on PrepClubs](https://prepclubs.com/free-practice-tests/ramsay-maintenance?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=ramsay-maintenance), which is built in the MecTest and MultiCraft style.
+The section guides teach each area one at a time. To practise switching between topics under time pressure, use the [free Ramsay Maintenance practice test on PrepClubs](https://prepclubs.com/free-practice-tests/ramsay-maintenance?utm_source=github&utm_medium=referral&utm_campaign=5q2ftk&utm_content=ramsay-maintenance), which is built in the MecTest and MultiCraft style.
 
 ---
 

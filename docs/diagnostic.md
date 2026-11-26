@@ -11,7 +11,7 @@ One or two original items from each content area, to show you where to start. An
 
 These items are original, written for these notes. They are not taken from any Ramsay test.
 
-If you already know your weak spots, skip this and take the [free Ramsay Maintenance practice test on PrepClubs](https://prepclubs.com/free-practice-tests/ramsay-maintenance?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=ramsay-maintenance) instead. A full timed run gives a better picture of pacing.
+If you already know your weak spots, skip this and take the [free Ramsay Maintenance practice test on PrepClubs](https://prepclubs.com/free-practice-tests/ramsay-maintenance?utm_source=github&utm_medium=referral&utm_campaign=5q2ftk&utm_content=ramsay-maintenance) instead. A full timed run gives a better picture of pacing.
 
 ## Part A: Hydraulics and pneumatics
 

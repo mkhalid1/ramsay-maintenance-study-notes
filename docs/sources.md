@@ -23,7 +23,7 @@ Every fact in these notes about the tests themselves comes from Ramsay Corporati
 
 | Source | Used for |
 |---|---|
-| [Free Ramsay Maintenance practice test](https://prepclubs.com/free-practice-tests/ramsay-maintenance?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=ramsay-maintenance) | Linked as a place to practise in a timed format. It is not Ramsay material. |
+| [Free Ramsay Maintenance practice test](https://prepclubs.com/free-practice-tests/ramsay-maintenance?utm_source=github&utm_medium=referral&utm_campaign=5q2ftk&utm_content=ramsay-maintenance) | Linked as a place to practise in a timed format. It is not Ramsay material. |
 
 ## Search data
 

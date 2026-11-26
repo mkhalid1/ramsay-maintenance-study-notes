@@ -52,7 +52,7 @@ Experienced mechanics often score below what their skill deserves. The usual rea
 
 ## Practise before the real one
 
-Run the [diagnostic](diagnostic.md) first, then a full timed run on the [free Ramsay Maintenance practice test on PrepClubs](https://prepclubs.com/free-practice-tests/ramsay-maintenance?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=ramsay-maintenance), so the format holds no surprises on the day.
+Run the [diagnostic](diagnostic.md) first, then a full timed run on the [free Ramsay Maintenance practice test on PrepClubs](https://prepclubs.com/free-practice-tests/ramsay-maintenance?utm_source=github&utm_medium=referral&utm_campaign=5q2ftk&utm_content=ramsay-maintenance), so the format holds no surprises on the day.
 
 ---
 

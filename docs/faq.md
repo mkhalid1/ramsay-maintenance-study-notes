@@ -44,7 +44,7 @@ Find out which form you will sit, take the [7-minute diagnostic](diagnostic.md),
 
 ## Where can I find a free Ramsay practice test with questions and answers?
 
-Ramsay does not publish practice tests, and says it has not sanctioned any online practice materials. This repo has original practice items with answers and explanations in every [section guide](test-overview.md#what-each-form-covers), and PrepClubs offers a [free Ramsay Maintenance practice test](https://prepclubs.com/free-practice-tests/ramsay-maintenance?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=ramsay-maintenance) in the MecTest and MultiCraft style. Neither is official Ramsay material.
+Ramsay does not publish practice tests, and says it has not sanctioned any online practice materials. This repo has original practice items with answers and explanations in every [section guide](test-overview.md#what-each-form-covers), and PrepClubs offers a [free Ramsay Maintenance practice test](https://prepclubs.com/free-practice-tests/ramsay-maintenance?utm_source=github&utm_medium=referral&utm_campaign=5q2ftk&utm_content=ramsay-maintenance) in the MecTest and MultiCraft style. Neither is official Ramsay material.
 
 ## Can I find MecTest answers online?
 
